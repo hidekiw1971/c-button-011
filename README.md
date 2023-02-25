@@ -1,4 +1,4 @@
-画像をコピペ
+<img width="1321" alt="image" src="https://user-images.githubusercontent.com/99580997/221356275-93cc74dd-4c50-4059-955e-8819582bfeda.png">
 
 # compornent（共通部品）
 - ボタン（ホバー時に色が左から変化する）
